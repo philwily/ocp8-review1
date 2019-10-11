@@ -1,4 +1,0 @@
-1 lion
-2 zebra
-3 tiger
-4 elephant
